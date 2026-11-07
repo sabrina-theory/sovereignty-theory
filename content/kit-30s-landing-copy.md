@@ -1,6 +1,6 @@
 # Kit「30秒主权回收练习」落地页新文案
 
-> 页面：https://sabrina-50.kit.com/30s-sovereignty（= sabrina-50.kit.com/86fc96151e）
+> 页面（统一使用这个地址）：https://sabrina-50.kit.com/30s-sovereignty
 > 编辑入口：https://app.kit.com/forms/designers/9553484/edit
 > 这个页面是 Kit 旧版编辑器（v1）做的，API 改不了，需要在编辑器里手动粘贴。
 > 练习本身不变，只换"包装"：对外叫「30秒回到显化状态」，副标保留「主权回收练习」，老读者也认得出。
